@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("HAnmxVnFWCuQJ5jfYTmKSeiz1hwj25R2cDWps8rs6sGp");
+declare_id!("97uCKFPMDU4S4DQmNwu7BQAYCCFM5fMBms7zk71uJeib");
 
 #[program]
 pub mod greet_svm {
