@@ -1,7 +1,7 @@
-# Solana Anchor Hello World
+# Sonic Anchor Greeting Program
 
-The program is deployed to Solana Devnet at the following address:
+The program is deployed to Sonic Testnet at the following address:
 ```
-HAnmxVnFWCuQJ5jfYTmKSeiz1hwj25R2cDWps8rs6sGp
+97uCKFPMDU4S4DQmNwu7BQAYCCFM5fMBms7zk71uJeib
 ```
 
